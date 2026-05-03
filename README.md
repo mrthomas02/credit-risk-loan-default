@@ -123,6 +123,7 @@ most important feature (SHAP: 0.152), validating the feature engineering approac
 
 ## Project Structure
 
+```
 credit-risk-loan-default/
 ├── data/
 │   └── cs_cleaned.csv               # Cleaned & feature-engineered dataset
@@ -137,6 +138,7 @@ credit-risk-loan-default/
 │   ├── model_comparison.csv         # Model metrics for all 4 models
 │   └── shap_feature_importance.csv  # SHAP values for Power BI
 └── README.md
+```
 
 ---
 
